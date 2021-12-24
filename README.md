@@ -1,1 +1,2 @@
 # Playlist-JAVA-OO
+This program allows media to be managed by your user once uploaded. operations would be to upload media, close caption the media, remove the media, publish it for general viewing, or publish it for a specific class. Videos can have comments, attachments, description, and allow for users to post comments. User can look at the analytics of how often these videos have been watched (or re-watched). In addition, quiz questions can be added to media. Each course can have multiple playlists of these media available for the viewers to step through.
